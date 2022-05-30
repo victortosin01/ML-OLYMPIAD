@@ -1,0 +1,1 @@
+Using Machine learning algorithms to classify if a patient has heart disease or not. In this repository are two files. The first file for exploratory data analysis and the second file is an ML model model that uses classification techniques to predict the class of given data points. 
